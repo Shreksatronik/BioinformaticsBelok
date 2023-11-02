@@ -16,3 +16,6 @@
 
 6. Molecular surface
 <img width="495" alt="surface" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/cadf0f56-b723-4138-a7e5-275060f4defa">
+
+Publication
+<img width="503" alt="publication" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/a5fc6d6b-ccdb-4cb3-876a-89bcdf4f02e8">
