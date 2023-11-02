@@ -24,8 +24,10 @@
 
 1. CPK
 <img width="500" alt="spacefill" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/7049fa6a-2be1-4f14-82a0-f4fbbc65b0c1">
+
 2. Domains
 <img width="489" alt="domains" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/52de60a2-6518-4ac3-8b7e-9b8754d1615c">
+
 
 
 Графический интерфейс VMD
