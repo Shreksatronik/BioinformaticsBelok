@@ -2,8 +2,9 @@
 Выбранное ПО: VMD
 Выбранный белок: https://www.rcsb.org/structure/7SJI
 Визуализация 
-<img width="503" alt="wireframe" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/cbfeda84-ebe3-45ce-bfdd-89c4f36fbf5f">
 1. Wireframe
+<img width="503" alt="wireframe" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/cbfeda84-ebe3-45ce-bfdd-89c4f36fbf5f">
+
     
 2. Backbone
    <img width="495" alt="backbone" src="https://github.com/Shreksatronik/BioinformaticsBelok/assets/90185952/a69fdd47-c5d8-442b-bfce-b44369d6114d">
